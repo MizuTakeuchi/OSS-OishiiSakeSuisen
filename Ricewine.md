@@ -45,7 +45,7 @@
 - MEMO:-
 
 ## 高知県
-### 高木酒造 Ailien
+### 高木酒造 ALIENS (エイリアンズ)
 - 推薦者の名前:Mizutakeuchi
 - 酒造名:高木酒造（高知県）
 - 品名:Ailien
