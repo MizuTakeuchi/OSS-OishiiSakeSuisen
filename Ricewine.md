@@ -48,7 +48,7 @@
 ### 高木酒造 ALIENS (エイリアンズ)
 - 推薦者の名前:Mizutakeuchi
 - 酒造名:高木酒造（高知県）
-- 品名:Ailien
+- 品名:ALIENS
 - 概算価格:四合瓶で1,850 (税別)、一升で3700円
 - URL: https://kurand.jp/products/aliens
 - MEMO: 淡麗辛口. Kurand sake marketで飲んで美味しかった
