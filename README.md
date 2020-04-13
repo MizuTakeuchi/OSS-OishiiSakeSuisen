@@ -9,10 +9,10 @@
 - かかった費用は飲んだ人数で公平に割る
 - 日本酒がメインになると予想しているが、他の酒も楽しく飲む
 
-Pull request 大歓迎！
+Pull Request 大歓迎！
 
 ### Text Format
-Pull request 大歓迎！
+Pull Request 大歓迎！
 
 ```
 フォーマット
