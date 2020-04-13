@@ -12,7 +12,6 @@
 Pull Request 大歓迎！
 
 ### Text Format
-Pull Request 大歓迎！
 
 ```
 フォーマット
